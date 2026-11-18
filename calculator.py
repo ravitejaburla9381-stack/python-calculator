@@ -32,7 +32,7 @@ def calculator():
     print("zero is not divisiable")
 while True:                 
   calculator()
-   choice=input("do you want to continue? (yes or no):")
-    if choice.lower()!="yes" :
+  choice=input("do you want to continue? (yes or no):")
+  if choice.lower()!="yes" :
         break
               
